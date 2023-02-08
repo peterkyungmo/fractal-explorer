@@ -1,3 +1,0 @@
-C:/Users/Peter Kang/source/repos/fractal-explorer/cmake-build-debug/CMakeFiles/fractal_explorer.dir
-C:/Users/Peter Kang/source/repos/fractal-explorer/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Peter Kang/source/repos/fractal-explorer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
